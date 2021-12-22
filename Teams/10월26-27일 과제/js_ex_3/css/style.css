@@ -1,0 +1,9 @@
+.feedback {
+	display: none;
+	color: red;
+}
+
+
+.show {
+	display: block;
+}
